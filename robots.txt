@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aid-dev-98.github.io/About-me/sitemap.xml
